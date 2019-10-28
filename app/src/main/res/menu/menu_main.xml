@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_profile"
+        android:icon="@drawable/man_user"
+        android:title="profil"
+        app:showAsAction="ifRoom" />
+
+
+</menu>
